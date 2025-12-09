@@ -1,6 +1,6 @@
 # 📦 Math/Calculations
 
-> 6 APIs in this category
+> 8 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -36,6 +36,16 @@ Fibonacci Generator is a tool for generating Fibonacci sequence numbers. It can 
 
 ---
 
+## Permutation & Combination Calculator
+
+<img src="https://apiverve.web.app/publicapis/logos/permutationcombination.svg" width="60" height="60" />
+
+Calculate permutations (P(n,r)) and combinations (C(n,r)) for any given values of n and r.
+
+**[View Documentation →](https://apiverve.com/marketplace/permutationcombination)** | **[OpenAPI Spec](../apis/permutationcombination/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Roman Numeral Math
 
 <img src="https://apiverve.web.app/publicapis/logos/romannumeralmath.svg" width="60" height="60" />
@@ -53,6 +63,16 @@ Roman Numeral Math is a tool for performing mathematical operations (add, subtra
 Tip Calculator is a tool for calculating tips and splitting bills among multiple people. It provides common tip percentage comparisons and per-person breakdowns.
 
 **[View Documentation →](https://apiverve.com/marketplace/tipcalculator)** | **[OpenAPI Spec](../apis/tipcalculator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Truth Table Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/truthtable.svg" width="60" height="60" />
+
+Truth Table Generator creates complete truth tables for boolean expressions with support for AND, OR, NOT, XOR, NAND, and NOR operators.
+
+**[View Documentation →](https://apiverve.com/marketplace/truthtable)** | **[OpenAPI Spec](../apis/truthtable/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

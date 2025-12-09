@@ -1,6 +1,6 @@
 # 📦 Data Processing
 
-> 4 APIs in this category
+> 6 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -43,6 +43,26 @@ Metadata Extractor is a simple tool for extracting metadata from web pages. It r
 Morse Code is a simple tool for encoding and decoding Morse code. It returns the encoded or decoded Morse code.
 
 **[View Documentation →](https://apiverve.com/marketplace/morsecode)** | **[OpenAPI Spec](../apis/morsecode/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## MurmurHash
+
+<img src="https://apiverve.web.app/publicapis/logos/murmurhash.svg" width="60" height="60" />
+
+MurmurHash generates fast, non-cryptographic hashes using the MurmurHash3 algorithm. Ideal for hash tables, data partitioning, bloom filters, and checksums where cryptographic security isn't needed.
+
+**[View Documentation →](https://apiverve.com/marketplace/murmurhash)** | **[OpenAPI Spec](../apis/murmurhash/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## SQL Explainer
+
+<img src="https://apiverve.web.app/publicapis/logos/sqlexplainer.svg" width="60" height="60" />
+
+SQL Explainer analyzes SQL queries and provides clear, plain English explanations of what they do. Perfect for learning SQL, code reviews, or documentation.
+
+**[View Documentation →](https://apiverve.com/marketplace/sqlexplainer)** | **[OpenAPI Spec](../apis/sqlexplainer/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

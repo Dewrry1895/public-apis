@@ -1,6 +1,6 @@
 # 📦 Text Analysis
 
-> 38 APIs in this category
+> 45 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -76,6 +76,16 @@ Emoji Decorator is a simple tool for decorating text with emojis. It returns the
 
 ---
 
+## Gibberish Detector
+
+<img src="https://apiverve.web.app/publicapis/logos/gibberishdetector.svg" width="60" height="60" />
+
+Gibberish Detector analyzes text using bigram frequency and vowel ratios to identify nonsensical or randomly generated content.
+
+**[View Documentation →](https://apiverve.com/marketplace/gibberishdetector)** | **[OpenAPI Spec](../apis/gibberishdetector/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Grammar Check
 
 <img src="https://apiverve.web.app/publicapis/logos/grammarcheck.svg" width="60" height="60" />
@@ -126,6 +136,36 @@ Leet Speak is a simple tool for encoding and decoding Leet Speak. It returns the
 
 ---
 
+## Levenshtein Distance
+
+<img src="https://apiverve.web.app/publicapis/logos/levenshteindistance.svg" width="60" height="60" />
+
+Levenshtein Distance calculates the minimum number of single-character edits needed to transform one string into another.
+
+**[View Documentation →](https://apiverve.com/marketplace/levenshteindistance)** | **[OpenAPI Spec](../apis/levenshteindistance/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Line Sorter
+
+<img src="https://apiverve.web.app/publicapis/logos/linesorter.svg" width="60" height="60" />
+
+Line Sorter organizes text by sorting lines alphabetically in ascending or descending order with case-sensitive options.
+
+**[View Documentation →](https://apiverve.com/marketplace/linesorter)** | **[OpenAPI Spec](../apis/linesorter/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Markdown Link Extractor
+
+<img src="https://apiverve.web.app/publicapis/logos/markdownlinkextractor.svg" width="60" height="60" />
+
+Markdown Link Extractor parses markdown documents and extracts all links including inline, reference, autolinks, and image URLs.
+
+**[View Documentation →](https://apiverve.com/marketplace/markdownlinkextractor)** | **[OpenAPI Spec](../apis/markdownlinkextractor/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Palindrome Checker
 
 <img src="https://apiverve.web.app/publicapis/logos/palindromechecker.svg" width="60" height="60" />
@@ -143,6 +183,16 @@ Palindrome Checker is a tool for checking if text is a palindrome. It supports o
 Parts Of Speech is a simple tool for extracting nouns, verbs, adjectives, adverbs, etc. from text. It returns the extracted words based on the part of speech specified.
 
 **[View Documentation →](https://apiverve.com/marketplace/partsofspeech)** | **[OpenAPI Spec](../apis/partsofspeech/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Phonetic Encoder
+
+<img src="https://apiverve.web.app/publicapis/logos/phonetic.svg" width="60" height="60" />
+
+Phonetic Encoder generates phonetic codes for words using Soundex and Metaphone algorithms. These codes represent how words sound, enabling fuzzy matching of similar-sounding names.
+
+**[View Documentation →](https://apiverve.com/marketplace/phonetic)** | **[OpenAPI Spec](../apis/phonetic/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -193,6 +243,16 @@ Regex Tester is a comprehensive tool for testing and validating regular expressi
 Remove Punctuation is a simple tool for removing punctuation marks from text. It strips all common punctuation characters and provides statistics about what was removed.
 
 **[View Documentation →](https://apiverve.com/marketplace/removepunctuation)** | **[OpenAPI Spec](../apis/removepunctuation/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Reverse Text
+
+<img src="https://apiverve.web.app/publicapis/logos/reversetext.svg" width="60" height="60" />
+
+Reverse Text transforms text by reversing characters, words, or lines with multiple reversal modes for different use cases.
+
+**[View Documentation →](https://apiverve.com/marketplace/reversetext)** | **[OpenAPI Spec](../apis/reversetext/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -343,6 +403,16 @@ Title Capitalization is a simple tool for converting title text to various cases
 Translator is a simple tool for translating text. It returns the translated text.
 
 **[View Documentation →](https://apiverve.com/marketplace/translator)** | **[OpenAPI Spec](../apis/translator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Vowel Counter
+
+<img src="https://apiverve.web.app/publicapis/logos/vowelcounter.svg" width="60" height="60" />
+
+Vowel Counter analyzes text to count vowels and consonants, providing detailed breakdowns and percentages for linguistic analysis.
+
+**[View Documentation →](https://apiverve.com/marketplace/vowelcounter)** | **[OpenAPI Spec](../apis/vowelcounter/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

@@ -1,8 +1,18 @@
 # 📦 Science
 
-> 3 APIs in this category
+> 4 APIs in this category
 
 [← Back to API Catalog](../)
+
+---
+
+## Julian Day Calculator
+
+<img src="https://apiverve.web.app/publicapis/logos/julianday.svg" width="60" height="60" />
+
+Julian Day Calculator converts between Gregorian calendar dates and Julian Day Numbers (JDN). Julian Day is a continuous count of days used in astronomy and historical research.
+
+**[View Documentation →](https://apiverve.com/marketplace/julianday)** | **[OpenAPI Spec](../apis/julianday/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

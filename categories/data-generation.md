@@ -1,6 +1,6 @@
 # 📦 Data Generation
 
-> 26 APIs in this category
+> 32 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -33,6 +33,26 @@ Baby Name Generator is a simple tool for generating baby names. It returns a lis
 Barcode Generator is a simple tool for generating barcodes from data. It returns a URL to the generated image of the barcode.
 
 **[View Documentation →](https://apiverve.com/marketplace/barcodegenerator)** | **[OpenAPI Spec](../apis/barcodegenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Bingo Card Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/bingocardgenerator.svg" width="60" height="60" />
+
+Bingo Card Generator creates customizable bingo cards with random numbers, HTML rendering, and downloadable PNG images.
+
+**[View Documentation →](https://apiverve.com/marketplace/bingocardgenerator)** | **[OpenAPI Spec](../apis/bingocardgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Boggle Board Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/boggleboardgenerator.svg" width="60" height="60" />
+
+Boggle Board Generator creates random Boggle game boards with authentic dice configurations, HTML rendering, and downloadable PNG images.
+
+**[View Documentation →](https://apiverve.com/marketplace/boggleboardgenerator)** | **[OpenAPI Spec](../apis/boggleboardgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -136,6 +156,26 @@ Hashtag Generator is a simple tool for generating hashtags. It returns a list of
 
 ---
 
+## IMEI Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/imeigenerator.svg" width="60" height="60" />
+
+IMEI Generator creates valid International Mobile Equipment Identity (IMEI) numbers with proper Luhn checksum validation for mobile devices.
+
+**[View Documentation →](https://apiverve.com/marketplace/imeigenerator)** | **[OpenAPI Spec](../apis/imeigenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Initialism Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/initialismgenerator.svg" width="60" height="60" />
+
+Initialism Generator creates initialisms from phrases by extracting first letters of significant words, with options for filtering and formatting.
+
+**[View Documentation →](https://apiverve.com/marketplace/initialismgenerator)** | **[OpenAPI Spec](../apis/initialismgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## JSON Schema Generator
 
 <img src="https://apiverve.web.app/publicapis/logos/jsonschemagenerator.svg" width="60" height="60" />
@@ -223,6 +263,26 @@ Random Word is a simple tool for getting random words. It returns a random word.
 Short Code Generator is a tool for generating short alphanumeric codes. It supports multiple character sets including alphanumeric, alphabetic, numeric, hexadecimal, and Base58 with customizable length.
 
 **[View Documentation →](https://apiverve.com/marketplace/shortcodegenerator)** | **[OpenAPI Spec](../apis/shortcodegenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Sitemap Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/sitemapgenerator.svg" width="60" height="60" />
+
+Sitemap Generator creates valid XML sitemaps from URL lists following the sitemaps.org protocol for search engine optimization.
+
+**[View Documentation →](https://apiverve.com/marketplace/sitemapgenerator)** | **[OpenAPI Spec](../apis/sitemapgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## TOTP Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/totpgenerator.svg" width="60" height="60" />
+
+TOTP Generator creates time-based one-time passwords compatible with authenticator apps using standard TOTP algorithms.
+
+**[View Documentation →](https://apiverve.com/marketplace/totpgenerator)** | **[OpenAPI Spec](../apis/totpgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

@@ -1,6 +1,6 @@
 # 🔒 Security
 
-> 3 APIs in this category
+> 4 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -33,6 +33,16 @@ DANE Record Validator validates DANE/TLSA DNS records used for certificate authe
 Hash Generator is a tool for generating cryptographic hashes from text. It supports multiple algorithms including MD5, SHA-1, SHA-256, SHA-384, SHA-512, and BLAKE2 variants for data integrity and security applications.
 
 **[View Documentation →](https://apiverve.com/marketplace/hashgenerator)** | **[OpenAPI Spec](../apis/hashgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## HMAC Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/hmac.svg" width="60" height="60" />
+
+HMAC Generator creates Hash-based Message Authentication Codes for data integrity and authentication. Supports SHA-256, SHA-384, SHA-512, SHA-1, and MD5 algorithms.
+
+**[View Documentation →](https://apiverve.com/marketplace/hmac)** | **[OpenAPI Spec](../apis/hmac/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

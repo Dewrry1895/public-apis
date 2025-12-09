@@ -1,8 +1,18 @@
 # 📦 Reference Data
 
-> 9 APIs in this category
+> 11 APIs in this category
 
 [← Back to API Catalog](../)
+
+---
+
+## Birthstones
+
+<img src="https://apiverve.web.app/publicapis/logos/birthstones.svg" width="60" height="60" />
+
+Birthstones is a comprehensive lookup API for birthstone information. It returns detailed data about gemstones associated with each birth month, including the primary stone, alternate stones, colors, meanings, and zodiac associations.
+
+**[View Documentation →](https://apiverve.com/marketplace/birthstones)** | **[OpenAPI Spec](../apis/birthstones/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -43,6 +53,16 @@ Color Name Finder is a tool for finding the closest named color from a hex color
 HTTP Status Code Lookup is a tool for looking up HTTP status code information. It provides descriptions, categories, and common causes for all standard HTTP status codes from 1xx to 5xx.
 
 **[View Documentation →](https://apiverve.com/marketplace/httpstatuslookup)** | **[OpenAPI Spec](../apis/httpstatuslookup/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Mayan Calendar
+
+<img src="https://apiverve.web.app/publicapis/logos/mayancalendar.svg" width="60" height="60" />
+
+Mayan Calendar converts Gregorian dates to the ancient Mayan calendar system. Returns the Long Count, Tzolkin (260-day sacred calendar), and Haab (365-day civil calendar) dates.
+
+**[View Documentation →](https://apiverve.com/marketplace/mayancalendar)** | **[OpenAPI Spec](../apis/mayancalendar/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

@@ -1,6 +1,6 @@
 # 📦 Data Conversion
 
-> 21 APIs in this category
+> 32 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -66,6 +66,16 @@ HTML Entities Encoder/Decoder is a tool for encoding and decoding HTML entities.
 
 ---
 
+## HTML to Image
+
+<img src="https://apiverve.web.app/publicapis/logos/htmltoimage.svg" width="60" height="60" />
+
+HTML to Image converts HTML code into high-quality images with customizable dimensions and formats including PNG, JPEG, and WebP.
+
+**[View Documentation →](https://apiverve.com/marketplace/htmltoimage)** | **[OpenAPI Spec](../apis/htmltoimage/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## JSON to CSV Converter
 
 <img src="https://apiverve.web.app/publicapis/logos/jsontocsv.svg" width="60" height="60" />
@@ -83,6 +93,76 @@ JSON to CSV Converter is a powerful tool for converting JSON arrays into CSV for
 JSON to JSONP is a simple tool for converting JSON data into JSONP format. It returns the converted JSONP data.
 
 **[View Documentation →](https://apiverve.com/marketplace/jsontojsonp)** | **[OpenAPI Spec](../apis/jsontojsonp/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## JWT Decoder
+
+<img src="https://apiverve.web.app/publicapis/logos/jwtdecoder.svg" width="60" height="60" />
+
+JWT Decoder decodes JWT tokens to reveal header and payload information without performing signature verification.
+
+**[View Documentation →](https://apiverve.com/marketplace/jwtdecoder)** | **[OpenAPI Spec](../apis/jwtdecoder/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Markdown Table Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/markdowntable.svg" width="60" height="60" />
+
+Markdown Table Generator converts structured data into properly formatted markdown tables with customizable column alignment.
+
+**[View Documentation →](https://apiverve.com/marketplace/markdowntable)** | **[OpenAPI Spec](../apis/markdowntable/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Markdown to HTML
+
+<img src="https://apiverve.web.app/publicapis/logos/markdowntohtml.svg" width="60" height="60" />
+
+Markdown to HTML parses markdown syntax and converts it to clean, semantic HTML suitable for web rendering and content management.
+
+**[View Documentation →](https://apiverve.com/marketplace/markdowntohtml)** | **[OpenAPI Spec](../apis/markdowntohtml/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Markdown to Image
+
+<img src="https://apiverve.web.app/publicapis/logos/markdowntoimage.svg" width="60" height="60" />
+
+Markdown to Image converts markdown text into visual image representations, rendering content as PNG, JPEG, or WebP images.
+
+**[View Documentation →](https://apiverve.com/marketplace/markdowntoimage)** | **[OpenAPI Spec](../apis/markdowntoimage/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Markdown to PDF
+
+<img src="https://apiverve.web.app/publicapis/logos/markdowntopdf.svg" width="60" height="60" />
+
+Markdown to PDF converts markdown text into professionally formatted PDF documents with Base64-encoded output for easy downloading.
+
+**[View Documentation →](https://apiverve.com/marketplace/markdowntopdf)** | **[OpenAPI Spec](../apis/markdowntopdf/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Math Calculator
+
+<img src="https://apiverve.web.app/publicapis/logos/math.svg" width="60" height="60" />
+
+Math Calculator performs mathematical operations including basic arithmetic, advanced functions, and expression evaluation.
+
+**[View Documentation →](https://apiverve.com/marketplace/math)** | **[OpenAPI Spec](../apis/math/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Meeting Time Converter
+
+<img src="https://apiverve.web.app/publicapis/logos/meetingtimeconverter.svg" width="60" height="60" />
+
+Meeting Time Converter transforms meeting times between any two timezones, calculating time differences and UTC offsets for global coordination.
+
+**[View Documentation →](https://apiverve.com/marketplace/meetingtimeconverter)** | **[OpenAPI Spec](../apis/meetingtimeconverter/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -113,6 +193,26 @@ Number to Words is a simple tool for converting numbers to words. It returns the
 Placeholder Text Generator is a tool for generating placeholder text in various styles including lorem ipsum, tech jargon, hipster, corporate, pirate, fantasy, and sci-fi.
 
 **[View Documentation →](https://apiverve.com/marketplace/placeholdertext)** | **[OpenAPI Spec](../apis/placeholdertext/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Punycode Converter
+
+<img src="https://apiverve.web.app/publicapis/logos/punycode.svg" width="60" height="60" />
+
+Convert between Unicode and Punycode for internationalized domain names (IDN).
+
+**[View Documentation →](https://apiverve.com/marketplace/punycode)** | **[OpenAPI Spec](../apis/punycode/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Query String Builder
+
+<img src="https://apiverve.web.app/publicapis/logos/querystringbuilder.svg" width="60" height="60" />
+
+Query String Builder converts JSON objects into properly formatted URL query strings with optional encoding.
+
+**[View Documentation →](https://apiverve.com/marketplace/querystringbuilder)** | **[OpenAPI Spec](../apis/querystringbuilder/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -183,6 +283,16 @@ Unix Timestamp Converter is a tool for converting between Unix timestamps and hu
 URL Encoder/Decoder is a tool for encoding and decoding URL strings. It converts special characters to percent-encoded format and decodes them back for safe URL transmission.
 
 **[View Documentation →](https://apiverve.com/marketplace/urlencode)** | **[OpenAPI Spec](../apis/urlencode/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Variable Name Converter
+
+<img src="https://apiverve.web.app/publicapis/logos/variablenameconverter.svg" width="60" height="60" />
+
+Variable Name Converter transforms variable names between different naming conventions including camelCase, snake_case, PascalCase, and kebab-case.
+
+**[View Documentation →](https://apiverve.com/marketplace/variablenameconverter)** | **[OpenAPI Spec](../apis/variablenameconverter/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

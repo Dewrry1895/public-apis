@@ -1,6 +1,6 @@
 # 📦 Entertainment
 
-> 14 APIs in this category
+> 24 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -26,6 +26,26 @@ Bucket List is a simple tool for getting a random bucket list item. It returns a
 
 ---
 
+## Charades Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/charades.svg" width="60" height="60" />
+
+Charades Generator provides random words from curated categories perfect for playing the classic charades acting game.
+
+**[View Documentation →](https://apiverve.com/marketplace/charades)** | **[OpenAPI Spec](../apis/charades/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Chess Move Validator
+
+<img src="https://apiverve.web.app/publicapis/logos/chessmovevalidator.svg" width="60" height="60" />
+
+Chess Move Validator verifies algebraic chess notation and identifies move types including castling, captures, checks, and promotions.
+
+**[View Documentation →](https://apiverve.com/marketplace/chessmovevalidator)** | **[OpenAPI Spec](../apis/chessmovevalidator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Chuck Norris Jokes
 
 <img src="https://apiverve.web.app/publicapis/logos/chucknorris.svg" width="60" height="60" />
@@ -36,6 +56,26 @@ Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a
 
 ---
 
+## Compliment Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/compliments.svg" width="60" height="60" />
+
+Compliment Generator creates unique, heartfelt compliments using template-based generation with extensive word banks. Perfect for apps, chatbots, or spreading positivity.
+
+**[View Documentation →](https://apiverve.com/marketplace/compliments)** | **[OpenAPI Spec](../apis/compliments/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## D&D Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/dndgenerator.svg" width="60" height="60" />
+
+D&D Generator creates random content for tabletop role-playing games including characters, NPCs, monsters, treasure, encounters, taverns, and quests.
+
+**[View Documentation →](https://apiverve.com/marketplace/dndgenerator)** | **[OpenAPI Spec](../apis/dndgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Dad Jokes
 
 <img src="https://apiverve.web.app/publicapis/logos/dadjokes.svg" width="60" height="60" />
@@ -43,6 +83,16 @@ Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a
 Dad Jokes is a simple tool for getting dad jokes. It returns a random dad joke.
 
 **[View Documentation →](https://apiverve.com/marketplace/dadjokes)** | **[OpenAPI Spec](../apis/dadjokes/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Fortune Teller
+
+<img src="https://apiverve.web.app/publicapis/logos/fortuneteller.svg" width="60" height="60" />
+
+Fortune Teller uses AI to generate personalized mystical fortunes across multiple categories including love, career, health, wealth, and travel.
+
+**[View Documentation →](https://apiverve.com/marketplace/fortuneteller)** | **[OpenAPI Spec](../apis/fortuneteller/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -73,6 +123,36 @@ Love Calculator is a simple tool for calculating love compatibility. It returns 
 Magic 8-Ball is a fun tool that provides random predictions and answers like the classic toy. It returns one of 20 classic Magic 8-Ball responses categorized as affirmative, negative, or non-committal.
 
 **[View Documentation →](https://apiverve.com/marketplace/magic8ball)** | **[OpenAPI Spec](../apis/magic8ball/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Music Note Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/musicnotegenerator.svg" width="60" height="60" />
+
+Music Note Generator creates high-quality WAV audio files of musical notes with precise frequency generation and customizable duration.
+
+**[View Documentation →](https://apiverve.com/marketplace/musicnotegenerator)** | **[OpenAPI Spec](../apis/musicnotegenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Never Have I Ever
+
+<img src="https://apiverve.web.app/publicapis/logos/neverhaveiever.svg" width="60" height="60" />
+
+Never Have I Ever generates random statements for the popular party game. Features 330+ unique prompts with per-API-key tracking to avoid repeats.
+
+**[View Documentation →](https://apiverve.com/marketplace/neverhaveiever)** | **[OpenAPI Spec](../apis/neverhaveiever/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Pictionary Generator
+
+<img src="https://apiverve.web.app/publicapis/logos/pictionary.svg" width="60" height="60" />
+
+Pictionary Generator creates random drawing prompts filtered by difficulty level for the classic Pictionary sketching game.
+
+**[View Documentation →](https://apiverve.com/marketplace/pictionary)** | **[OpenAPI Spec](../apis/pictionary/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -143,6 +223,26 @@ Sudoku is a simple tool for generating Sudoku puzzles. It returns a Sudoku puzzl
 Trivia is a simple tool for getting trivia questions. It returns a random trivia question based on your selected category.
 
 **[View Documentation →](https://apiverve.com/marketplace/trivia)** | **[OpenAPI Spec](../apis/trivia/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Truth or Dare
+
+<img src="https://apiverve.web.app/publicapis/logos/truthordare.svg" width="60" height="60" />
+
+Truth or Dare generates random truth questions and dare challenges for the classic party game. Features 400+ unique prompts with per-API-key tracking to avoid repeats.
+
+**[View Documentation →](https://apiverve.com/marketplace/truthordare)** | **[OpenAPI Spec](../apis/truthordare/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Wordle Helper
+
+<img src="https://apiverve.web.app/publicapis/logos/wordlehelper.svg" width="60" height="60" />
+
+Wordle Helper finds possible 5-letter word solutions based on known letter positions, letters in wrong positions, and eliminated letters.
+
+**[View Documentation →](https://apiverve.com/marketplace/wordlehelper)** | **[OpenAPI Spec](../apis/wordlehelper/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

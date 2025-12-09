@@ -1,8 +1,18 @@
 # 📦 Astrology
 
-> 5 APIs in this category
+> 6 APIs in this category
 
 [← Back to API Catalog](../)
+
+---
+
+## Chinese Zodiac
+
+<img src="https://apiverve.web.app/publicapis/logos/chinesezodiac.svg" width="60" height="60" />
+
+Chinese Zodiac returns the zodiac animal, element, and characteristics for any birth date. Accurately accounts for the Chinese lunar calendar - the zodiac year starts on Chinese New Year, not January 1st.
+
+**[View Documentation →](https://apiverve.com/marketplace/chinesezodiac)** | **[OpenAPI Spec](../apis/chinesezodiac/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
